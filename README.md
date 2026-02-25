@@ -38,8 +38,8 @@ I am a dedicated software developer focused on building functional, scalable, an
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laldikafawwaz&show_icons=true&theme=transparent&title_color=3498db&icon_color=3498db&text_color=777&border_color=eee" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laldikafawwaz&layout=compact&theme=transparent&title_color=3498db&text_color=777&border_color=eee" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaluAldikaFawwaz&show_icons=true&theme=transparent&title_color=3498db&icon_color=3498db&text_color=777&border_color=eee" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaluAldikaFawwaz&layout=compact&theme=transparent&title_color=3498db&text_color=777&border_color=eee" width="48%" />
 </p>
 
 <p align="center">
